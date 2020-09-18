@@ -2,7 +2,7 @@
 Repository for lab 1 in FAFF10
 ## Grundläggande git-kommandon ##
 `git init`  
-Skapar en ny tom git repository
+Skapar en ny tom git repository  
 `git clone <url>`
 Klonar en repository från url  
 `git add <file_name(s)>`  
