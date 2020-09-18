@@ -3,7 +3,7 @@ Repository for lab 1 in FAFF10
 ## Grundläggande git-kommandon ##
 `git init`  
 Skapar en ny tom git repository  
-`git clone <url>`
+`git clone <url>`  
 Klonar en repository från url  
 `git add <file_name(s)>`  
 Lägg till filer som ska "commitas". Använda . som flagga för att lägga till alla filer i nuvarande mapp  
